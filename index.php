@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Ini Title</title>
+	<title>Ini Title Index</title>
 </head>
 <body>
 Isi dari Index Content
